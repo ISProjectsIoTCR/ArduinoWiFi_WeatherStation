@@ -29,4 +29,3 @@ PASO_3: Descargue este proyecto y en "INCLUDE>USER-VARIABLES.H" complete la info
 
 PASO_4: Gestione las lecturas de sus sensores con un constructor Json y envíelo como parametro a la función sendToDashboard(config);
 
-VIDEO DE AYUDA: https://youtu.be/_vzZYyu7I1c
